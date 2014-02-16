@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://behelm.github.io/blog/2014/02/16/0-dot-3-beta-api/</loc>
+        <lastmod>2014-02-16T14:36:04-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://behelm.github.io/robots.txt</loc>
         <lastmod>2014-02-16T13:08:53-05:00</lastmod>
     </url>
     <url>
         <loc>http://behelm.github.io/</loc>
-        <lastmod>2014-02-16T13:08:53-05:00</lastmod>
+        <lastmod>2014-02-16T14:36:04-05:00</lastmod>
     </url>
     <url>
         <loc>http://behelm.github.io/blog/archives/</loc>
-        <lastmod>2014-02-16T13:08:53-05:00</lastmod>
+        <lastmod>2014-02-16T14:36:04-05:00</lastmod>
     </url>
 </urlset>
