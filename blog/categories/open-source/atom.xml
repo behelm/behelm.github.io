@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Open Source | Behelm]]></title>
   <link href="http://behelm.github.io/blog/categories/open-source/atom.xml" rel="self"/>
   <link href="http://behelm.github.io/"/>
-  <updated>2014-02-16T14:48:59-05:00</updated>
+  <updated>2014-02-16T14:50:06-05:00</updated>
   <id>http://behelm.github.io/</id>
   <author>
     <name><![CDATA[Catoctin Systems LLC]]></name>
@@ -20,8 +20,9 @@
     <id>http://behelm.github.io/blog/2014/02/16/0-dot-3-beta-api</id>
     <content type="html"><![CDATA[<p><strong> 0.3 beta API around the corner </strong></p>
 
-<p>Well, our new 0.3 beta API is just about ready for release.  We&rsquo;re working on the documentation now.  In a few weeks it&rsquo;ll be ready, which means we&rsquo;ll be kicking off our open source projects &mdash; hopefully &mdash; before the end of the month!<br/>
-We&rsquo;ll start with our Java SDK, and then it&rsquo;s onto the Android client.</p>
+<p>Well, our new 0.3 beta API is just about ready for release.  We&rsquo;re working on the documentation now.  In a few weeks it&rsquo;ll be ready, which means we&rsquo;ll be kicking off our open source projects &mdash; hopefully &mdash; before the end of the month!</p>
+
+<p>We&rsquo;ll start with our Java SDK, and then it&rsquo;s onto the Android client.</p>
 
 <p>Keep an eye out for upcoming meetups.</p>
 
